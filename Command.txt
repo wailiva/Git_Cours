@@ -1,5 +1,5 @@
 
 
 1- git  add (name_file or (*) means all files)
-
-2- git commit -m ""
+2-git reset
+3- git commit -m ""
